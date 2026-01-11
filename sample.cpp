@@ -18,5 +18,8 @@ int main() {
     cout << a.name << " " << a.roll << " " << a.gpa << endl;
     cout << b.name << " " << b.roll << " " << b.gpa << endl;
 
+
+    cout<<"New Line updated";
+
     return 0;
 }
