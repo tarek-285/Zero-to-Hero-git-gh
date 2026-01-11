@@ -21,5 +21,9 @@ int main() {
 
     cout<<"New Line updated";
     cout << "Both students have the same GPA!" << endl;
+    cout << "Both students have the same GPA!" << endl;
+    cout << "Both students have the same GPA!" << endl;
+    cout << "Both students have the same GPA!" << endl;
+    cout << "Both students have the same GPA!" << endl;
     return 0;
 }
